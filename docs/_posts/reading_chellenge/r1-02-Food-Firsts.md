@@ -2,7 +2,7 @@
 layout: post
 title:  "Food Firsts"
 date:   2024年6月25日22点10分
-categories: reading
+categories: [reading]
 ---
 
 Answer: 
