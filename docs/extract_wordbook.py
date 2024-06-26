@@ -29,7 +29,7 @@ def scan_dir(dir):
                                 hint = hint[1:-1]
                             word = {
                                 "word":  match.group(1),
-                                "hint": match.group(2)
+                                "hint": hint
                             }
                             wordbook["words"].append(word)
 
