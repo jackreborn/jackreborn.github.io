@@ -17,10 +17,10 @@ Asian countries name hurricanes using a list of words than includes flowers, ani
 A. c, a, d, a, c,  c, c, a, b, a, b
 
 
-Long sentences: Passive voice is used when it does not matter who performs an action or when the emphasis is put on the reveiver of an action.
+Long sentences: Passive voice is used when it does not matter who performs an action or when the emphasis is put on the reveiver of an action.  
 
 
-Words: typhoon, tropical, cyclone, prediction, meteorology, meteorological, meteorologist, committee(a group that decides things), personal(of, or pertaining to, a person), matter, emphasis
+Words: typhoon, tropical, cyclone, prediction, meteorology, meteorological, meteorologist, committee(a group that decides things), personal(of, or pertaining to, a person), matter, emphasis  
 Phrases: keep an eye out for(to watch for trouble or danger), keep an eye on, keep up with(to continue getting useful information), make up(to prepare something), watch out for
 
 

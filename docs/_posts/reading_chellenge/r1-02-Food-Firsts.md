@@ -17,5 +17,5 @@ Long Sentences:
 2. We found out how the magician did the amazing trick.
 
 
-Words: reality, spice, chef, cook, sppaghetti, Persians, untrue, rumor, wealthy, magician, trick
-Phrase: in reality(actually), accoording to, close to(nearly, almost), as said by, have the flavor of, find out(to learn), as far back as, catch on(to become popular), dig in
+Words: reality, spice, chef, cook, sppaghetti, Persians, untrue, rumor, wealthy, magician, trick  
+Phrases: in reality(actually), accoording to, close to(nearly, almost), as said by, have the flavor of, find out(to learn), as far back as, catch on(to become popular), dig in
