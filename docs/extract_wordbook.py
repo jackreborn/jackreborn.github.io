@@ -24,6 +24,9 @@ def scan_dir(dir):
                         content = line[len(words_prefix):]
                         regex = re.compile(r"([\w]+)(\(.+?\)){0,1}")
                         for match in regex.finditer(content):
+                            hint = match.group(2)
+                            if hint:
+                                hint = hint[1:-1]
                             word = {
                                 "word":  match.group(1),
                                 "hint": match.group(2)
