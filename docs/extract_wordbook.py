@@ -34,5 +34,8 @@ def scan_dir(dir):
 if __name__ == "__main__":
     scan_dir(base_dir)
 
+    if not os.path.exists("./assets/"):
+        os.mkdir("./assets")
+
     with open("./assets/wordbook.json", "a", encoding="utf-8") as file:
         json.dump(wordbook, file)
