@@ -34,5 +34,5 @@ def scan_dir(dir):
 if __name__ == "__main__":
     scan_dir(base_dir)
 
-    with open("assets/wordbook.json", "w", encoding="utf-8") as file:
+    with open("./assets/wordbook.json", "w", encoding="utf-8") as file:
         json.dump(wordbook, file)
